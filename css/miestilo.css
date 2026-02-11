@@ -1,0 +1,77 @@
+.mrg-l {
+    margin-left: 10px;
+}
+
+#menu a {
+    color: black;
+}
+
+
+
+#Footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F7FBFA;
+}
+
+#Unitec {
+    background-image: url("../img/mar.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    opacity: 90%;
+    color: white;
+    font-style: normal;
+}
+
+#Servicios-Unitec {
+    text-align: center;
+    background-color: #f6f9ff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+}
+
+#Servicios-Unitec i {
+    font-size: 35px;
+    color: rgb(36, 127, 255);
+
+}
+
+
+.paddinglf {
+    padding-left: 80px;
+}
+
+#suscribe {
+    background-image: url("../img/mar.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+
+}
+
+#Footer i{
+    color: rgb(36, 127, 255);
+
+}
+
+.marginlf{
+    margin-left: 15px;
+}
+
+#mc_embed_signup_scroll {
+    background-color: rgb(125, 163, 212);
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
